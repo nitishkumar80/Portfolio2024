@@ -56,7 +56,7 @@ const Home = () => {
                   About Me
                 </button>
               </Link>
-              <button className="secondary" onClick={OpenCV}>
+              <button className="secondary" onClick={''}>
                 Download CV
               </button>
             </div>
