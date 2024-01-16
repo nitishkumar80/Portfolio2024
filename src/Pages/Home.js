@@ -13,10 +13,10 @@ import Contact from "./Contact";
 
 const Home = () => {
   function OpenCV() {
-    window.open(
-      "https://drive.google.com/file/d/1HLA39b9tPsW72-HBDIRdPwHntWz-eXmm/view?usp=sharing",
-      "_blank"
-    );
+    // window.open(
+    //   "https://drive.google.com/file/d/1HLA39b9tPsW72-HBDIRdPwHntWz-eXmm/view?usp=sharing",
+    //   "_blank"
+    // );
   }
 
   return (
