@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import "./CSS/Home.css";
-import Sagar from "../Images/HeroImage.png";
+import Sagar from "../Images/image logo.png";
 import Linkedin from "../Images/Social Media/linkedin.png";
 import github from "../Images/Social Media/github.png";
 import Facebook from "../Images/Social Media/facebook.png";
