@@ -8,7 +8,7 @@ import Contact from '../Pages/Contact'
 import Experience from '../Pages/Experience'
 import Projects from '../Pages/Projects'
 import Skills from '../Pages/Skills'
-import logo from"../Images/nitish logo.png";
+import logo from"../Images/nitish2.png";
 import { Navbar, Container, Nav } from 'react-bootstrap';
 
 export default function NavBar() {
