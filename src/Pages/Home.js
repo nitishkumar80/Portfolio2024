@@ -5,7 +5,7 @@ import "./CSS/Home.css";
 import Sagar from "../Images/image logo.png";
 import Linkedin from "../Images/Social Media/linkedin.png";
 import github from "../Images/Social Media/github.png";
-import Facebook from "../Images/Social Media/facebook.png";
+
 import instagram from "../Images/Social Media/instagram.png";
 import whatsapp from "../Images/Social Media/whatsapp.png";
 import Footer from "../Components/Footer";
@@ -13,10 +13,10 @@ import Contact from "./Contact";
 
 const Home = () => {
   function OpenCV() {
-    // window.open(
-    //   "https://drive.google.com/file/d/1HLA39b9tPsW72-HBDIRdPwHntWz-eXmm/view?usp=sharing",
-    //   "_blank"
-    // );
+    window.open(
+      "https://www.mediafire.com/file/u5s4l4ic3qf7g7e/NitishResume.pdf/file",
+      "_blank"
+    );
   }
 
   return (
@@ -56,7 +56,7 @@ const Home = () => {
                   About Me
                 </button>
               </Link>
-              <button className="secondary" onClick={''}>
+              <button className="secondary" onClick={OpenCV}>
                 Download CV
               </button>
             </div>
@@ -190,15 +190,7 @@ const Home = () => {
                     <img src={github} alt="github" />
                   </a>
                 </div>
-                {/* <div className="SocialIcon">
-                  <a
-                    href="https://www.facebook.com/sagar.chatur.33/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <img src={Facebook} alt="Facebook" />
-                  </a> */}
-                {/* </div> */}
+              
                 <div className="SocialIcon">
                   <a
                     href="https://www.instagram.com/__nitishmehta__"

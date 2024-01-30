@@ -75,7 +75,7 @@ export default function Skills() {
                     <ProgressBar now={70} label="MongoDb ( Learning...)" animated />
 
                     <button className="primary"
-                    onClick={'OpenCV'}>
+                    onClick={OpenCV}>
                     Download CV
                   </button>
                   </Col>
