@@ -14,10 +14,10 @@ import Footer from '../Components/Footer';
 
 export default function Skills() {
 
-  // function OpenCV(){
-  //   window.open(
-  //     "https://drive.google.com/file/d/1HLA39b9tPsW72-HBDIRdPwHntWz-eXmm/view?usp=sharing", "_blank");
-  //   }
+  function OpenCV(){
+    window.open(
+      "https://www.mediafire.com/file/u5s4l4ic3qf7g7e/NitishResume.pdf/file", "_blank");
+    }
 
   return (
     <div>
