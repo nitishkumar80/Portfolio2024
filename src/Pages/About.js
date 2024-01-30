@@ -70,7 +70,7 @@ const About = () => {
                     <p className="">Score: 7.0 out of 10 CGPA</p>
                   </div>
                 </div>
-              </div> *
+              </div> 
 
               {/*Card 2 */}
               <div className="card mt-3">
