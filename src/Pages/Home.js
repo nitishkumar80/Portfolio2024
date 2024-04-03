@@ -14,7 +14,7 @@ import Contact from "./Contact";
 const Home = () => {
   function OpenCV() {
     window.open(
-      "https://www.mediafire.com/file/pcha96gdofxek9y/Nitish+RESUME.pdf/file",
+      "https://www.mediafire.com/file/5xeq76tlrktakto/NitishResume.pdf/file",
       "_blank"
     );
   }
