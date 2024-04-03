@@ -16,7 +16,7 @@ export default function Skills() {
 
   function OpenCV(){
     window.open(
-      "https://www.mediafire.com/file/5xeq76tlrktakto/NitishResume.pdf/file", "_blank");
+      "https://www.mediafire.com/file/41qzzj65godm48r/FinalNitishResume.pdf/file", "_blank");
     }
 
   return (
