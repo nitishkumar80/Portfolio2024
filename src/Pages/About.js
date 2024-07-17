@@ -86,7 +86,7 @@ const About = () => {
                       Bachelor Of Computer Application
                     </h5>
                     <h6>Amity University Jharkhand</h6>
-                    <p className="">pursuing ...</p>
+                    <p className="">Completed</p>
                     
                   </div>
                 </div>
