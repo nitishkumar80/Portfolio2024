@@ -58,6 +58,21 @@ export default function Experience() {
                 </p>
               </div>
             </div>
+
+            <div className="containe right">
+              <div className="content">
+                <h6>Full Time</h6>
+                <h5>Web Developer and Front-End Developer</h5>
+                <h6 className="company">ARS Kreedashala Pvt Ltd </h6>
+                <p>
+                Responsible for creating visually appealing and user-friendly web interfaces, ensuring seamless user experiences, and collaborating with backend developers to integrate functionality. 
+                </p>
+              </div>
+            </div>
+
+
+
+
             {/* <div className="containe right">
               <div className="content">
                 <h6>Aug 2020 - Sep 2020 (2 Months)</h6>
