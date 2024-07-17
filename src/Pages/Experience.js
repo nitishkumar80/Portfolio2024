@@ -61,7 +61,7 @@ export default function Experience() {
 
             <div className="containe right">
               <div className="content">
-                <h6>Full Time</h6>
+                <h6> 2024 - Full Time</h6>
                 <h5>Web Developer and Front-End Developer</h5>
                 <h6 className="company">ARS Kreedashala Pvt Ltd </h6>
                 <p>
